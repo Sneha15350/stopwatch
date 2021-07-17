@@ -1,5 +1,5 @@
 section{
-	width: 600px;
+	width: 500px;
 	margin: 100px auto;
 	font-family: 'Orbitron', sans-serif;
 }
@@ -13,7 +13,7 @@ input[type="radio"]{display:none;}
 	display: inline-block;
 }
 .stopwatch .cell .num {
-	font-size: 35px;
+	font-size: 30px;
 	line-height: 35px;
 	color: #444;
 	display: block;
@@ -26,7 +26,7 @@ input[type="radio"]{display:none;}
 }
 .control label {
 	border: 1px solid;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 600;
 	padding: 10px;
 	margin: 0 10px;

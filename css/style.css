@@ -1,6 +1,6 @@
 section{
-	width: 500px;
-	margin: auto;
+	width: 450px;
+	margin: 20px;
 	font-family: 'Orbitron', sans-serif;
 }
 input[type="radio"]{display:none;}

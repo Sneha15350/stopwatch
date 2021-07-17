@@ -6,7 +6,7 @@ section{
 input[type="radio"]{display:none;}
 .stopwatch{text-align: center;}
 .stopwatch .cell{
-	width: 35px;
+	width: 30px;
 	height: 35px;
 	text-align: center;
 	overflow: hidden;
